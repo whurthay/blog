@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://whurthay.github.io/"/>
-  <updated>2018-06-02T04:53:20.000Z</updated>
-  <id>http://whurthay.github.io/</id>
+  <link href="https://blog.whurthay.com/"/>
+  <updated>2018-06-03T01:51:26.000Z</updated>
+  <id>https://blog.whurthay.com/</id>
   
   <author>
     <name>Ayush Narula</name>
@@ -17,9 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Tracking visitors</title>
+    <link href="https://blog.whurthay.com/2018/06/03/Tracking-visitors/"/>
+    <id>https://blog.whurthay.com/2018/06/03/Tracking-visitors/</id>
+    <published>2018-06-03T01:41:19.000Z</published>
+    <updated>2018-06-03T01:51:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Who-are-they"><a href="#Who-are-they" class="headerlink" title="Who are they"></a>Who are they</h2><p>It is so simple to understand the concept of trying to understand, why do we need to know, what we know, and how do we need to know, what can be known, once we know</p><p>Let me ask you something. Why do hotels ask you to <code>check in</code> when you enter a hotel. Why do you need to put all that info, when they can see definitely judge by your appearance, that you are a nice young man/woman. Some might argue, that they don’t want a crooked man, to live at their place. But, Does storing their identiy really hinder crooken men from bypassing the system, once they know it. </p><p>Storing and tracking visitors to any place, is just what’s been happening from the beginning of time. It’s just been normal, until the internet came into existence. Like sometimes a person from a remote part of the world or a country can enter into and read all sensitive info from a company’s database. Taking no names here (Yahoo, Ebay etc), without them knowing it. Why is it that happens, and what can we do to stop it?</p><p>Simple, track your visitors, like a CCTV. Get their precise location, their referring sites, time and frequency of visit, everything stored at a finger length distance(use your keyboard). </p><p>and, Once you really need to identify, who was that person, at that time and that place, and visiting or bombarding bot style visit. You know, where to look, and who to contact. Shhh.. <a href="https://whurthay.com" target="_blank" rel="noopener">Whurthay</a></p><p>It’s that simple, Be Sage, Be Safe visitor</p><p>Data is power</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Who-are-they&quot;&gt;&lt;a href=&quot;#Who-are-they&quot; class=&quot;headerlink&quot; title=&quot;Who are they&quot;&gt;&lt;/a&gt;Who are they&lt;/h2&gt;&lt;p&gt;It is so simple to understand 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Understanding my users</title>
-    <link href="http://whurthay.github.io/2018/06/02/Understanding-my-users/"/>
-    <id>http://whurthay.github.io/2018/06/02/Understanding-my-users/</id>
+    <link href="https://blog.whurthay.com/2018/06/02/Understanding-my-users/"/>
+    <id>https://blog.whurthay.com/2018/06/02/Understanding-my-users/</id>
     <published>2018-06-02T04:27:47.000Z</published>
     <updated>2018-06-02T04:53:20.000Z</updated>
     
