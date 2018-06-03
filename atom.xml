@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.whurthay.com/"/>
-  <updated>2018-06-03T01:51:26.000Z</updated>
-  <id>https://blog.whurthay.com/</id>
+  <link href="blog.whurthay.com/"/>
+  <updated>2018-06-03T02:31:52.000Z</updated>
+  <id>blog.whurthay.com/</id>
   
   <author>
     <name>Ayush Narula</name>
@@ -17,9 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Simple web development</title>
+    <link href="blog.whurthay.com/2018/06/03/Simple-web-development/"/>
+    <id>blog.whurthay.com/2018/06/03/Simple-web-development/</id>
+    <published>2018-06-03T02:20:10.000Z</published>
+    <updated>2018-06-03T02:31:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="How-to-start-Web-development"><a href="#How-to-start-Web-development" class="headerlink" title="How to start - Web development"></a>How to start - Web development</h2><p>Crafting a website doesn’t needs to take ages</p><p>Web development is a million dollar industry, but it’s one of the simplest art out there to apply,<br>anticipate and bring into existence</p><p>It is also just not a art. But, also an ecosystem. With possibilites so endless, as the vast ocean<br>of people or atoms or stars or anything in the universe.</p><p>Web is an ocean</p><p>If you like to craft things<br>You can start with <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noopener">HTML</a>  </p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><p>If you like to keep things pretty<br>You can grow with <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noopener">CSS</a><br><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">href</span>=<span class="string">"app.css"</span> <span class="attr">rel</span>=<span class="string">"stylesheer"</span> <span class="attr">type</span>=<span class="string">"text/css"</span> /&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">"element"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure></p><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">//app.css</span><br><span class="line"><span class="selector-id">#element</span> &#123;</span><br><span class="line"><span class="attribute">background</span>: whitesmoke;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>or, If you are interested in the mechanics of things<br>You can drive with <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noopener">Javascript</a></p><p>Once you know all of these, you can make the skeleton.<br>But, to really use these as a method to build an industrial powerhouse<br>Hold the <a href="https://angularjs.org/" target="_blank" rel="noopener">Angularjs</a> or <a href="https://reactjs.org/" target="_blank" rel="noopener">Reactjs</a> to name a few</p><p>or once you know javascript, which is different that <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noopener">Java</a></p><p>learn the engineering of the engine with <a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a> any other preference of your choice</p><p>If you are that wild, and just is getting tempted to drive this already<br>Join the <a href="http://ayushnarula.com/meteor.html" target="_blank" rel="noopener">Meteor</a> movement. You won’t regret it</p><p>It just contains everything you’d need to know, to get started</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;How-to-start-Web-development&quot;&gt;&lt;a href=&quot;#How-to-start-Web-development&quot; class=&quot;headerlink&quot; title=&quot;How to start - Web development&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Tracking visitors</title>
-    <link href="https://blog.whurthay.com/2018/06/03/Tracking-visitors/"/>
-    <id>https://blog.whurthay.com/2018/06/03/Tracking-visitors/</id>
+    <link href="blog.whurthay.com/2018/06/03/Tracking-visitors/"/>
+    <id>blog.whurthay.com/2018/06/03/Tracking-visitors/</id>
     <published>2018-06-03T01:41:19.000Z</published>
     <updated>2018-06-03T01:51:26.000Z</updated>
     
@@ -39,8 +60,8 @@
   
   <entry>
     <title>Understanding my users</title>
-    <link href="https://blog.whurthay.com/2018/06/02/Understanding-my-users/"/>
-    <id>https://blog.whurthay.com/2018/06/02/Understanding-my-users/</id>
+    <link href="blog.whurthay.com/2018/06/02/Understanding-my-users/"/>
+    <id>blog.whurthay.com/2018/06/02/Understanding-my-users/</id>
     <published>2018-06-02T04:27:47.000Z</published>
     <updated>2018-06-02T04:53:20.000Z</updated>
     
